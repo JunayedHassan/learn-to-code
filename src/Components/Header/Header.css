@@ -1,0 +1,26 @@
+.header{
+    height: 70px;
+    background-color: rgb(32, 25, 32);
+}
+.header nav{
+    background-color: rgb(32, 25, 32);
+    line-height: 40px;
+    font-size: 20px;
+    
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+    padding: 5px;
+    border: solid 2px rgb(32, 25, 32);
+    border-radius: 5px;
+    
+}
+
+nav a:hover{
+    background-color: rgb(42, 154, 219);
+    text-decoration: none;
+    color: white;
+    border: solid 2px rgb(42, 154, 219);
+}
